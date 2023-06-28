@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">New Assignment</string>
+    <string name="title_home">Home</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="favourite">Favourite</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="rating">Rating</string>
+    <string name="name">Name</string>
+    <string name="mark_fav">Item marked as Favourite</string>
+    <string name="unmark_fav">Item unmarked from Favourite</string>
+    <string name="no_data">No Data Found!</string>
+    <string name="accessibility_service_description">hello</string>
+    <string name="content">ea molestias quasi exercitationem repellat qui ipsa sit aut</string>
+
+</resources>
